@@ -1,4 +1,5 @@
 ---
+permalink: /testing.html
 ---
 
 # Test Headline
